@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1723953-5ca7-4ea9-93ac-ad8e223f98cb" name="Default" comment="" />
+    <list default="true" id="c1723953-5ca7-4ea9-93ac-ad8e223f98cb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/load.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="git.dev.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -20,12 +23,21 @@
     <favorites_list name="git.dev" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+=======
+    <leaf>
+      <file leaf-file-name="load.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/load.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+>>>>>>> new_branch
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -50,8 +62,8 @@
       <list>
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/css/css.css" />
-        <option value="$PROJECT_DIR$/load.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/load.php" />
       </list>
     </option>
   </component>
@@ -189,13 +201,21 @@
       <workItem from="1485088788215" duration="25000" />
       <workItem from="1485089379807" duration="24000" />
       <workItem from="1485089595570" duration="8000" />
+<<<<<<< HEAD
       <workItem from="1485090370074" duration="419000" />
       <workItem from="1485091168729" duration="106000" />
+=======
+      <workItem from="1485090370074" duration="726000" />
+>>>>>>> new_branch
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="9786000" />
+=======
+    <option name="totallyTimeSpent" value="9987000" />
+>>>>>>> new_branch
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -330,6 +350,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/robots.txt" />
     <entry file="file://$PROJECT_DIR$/main.php" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Core/Controller.php" />
     <entry file="file://$PROJECT_DIR$/css/css.css" />
     <entry file="file://$PROJECT_DIR$/load.php" />
@@ -337,6 +358,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+=======
+    <entry file="file://$PROJECT_DIR$/Core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+>>>>>>> new_branch
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
