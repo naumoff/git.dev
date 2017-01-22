@@ -6,4 +6,5 @@
  * Time: 15:12
  */
 echo "from test added";
+echo "from slave WTF";
 echo "wtf";
