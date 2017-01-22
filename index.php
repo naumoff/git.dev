@@ -7,4 +7,5 @@
  */
 echo "from test added";
 echo "from master WTF";
+echo "from slave WTF";
 echo "wtf";
