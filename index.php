@@ -11,3 +11,4 @@ echo "from master WTF2";
 echo "from slave WTF";
 echo "from slave WTF2";
 echo "wtf";
+echo "who is bosss????";
