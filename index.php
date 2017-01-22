@@ -5,6 +5,7 @@
  * Date: 22.01.2017
  * Time: 15:12
  */
+echo "Fetch Test master";
 echo "from test added";
 echo "from master WTF";
 echo "from master WTF2";
@@ -15,3 +16,7 @@ echo "conflict created";
 echo "1234";
 echo "who is bosss????";
 echo "call the world";
+echo "call me a river";
+echo "local conflict";
+echo "origin conflict";
+echo "new line added";
