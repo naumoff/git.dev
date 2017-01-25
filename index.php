@@ -11,6 +11,8 @@ echo "from master WTF";
 echo "from master WTF2";
 echo "from slave WTF";
 echo "from slave WTF2";
-echo "wtf";
+
 echo "conflict created";
 echo "1234";
+
+echo "5657";
